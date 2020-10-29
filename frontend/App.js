@@ -47,10 +47,10 @@ const pressMe = () =>{
 		            <label htmlFor="lastName">Last Name:        </label>
 		            <Field id="lastName" name="lastName" placeholder="last Name" />
 		            <br></br>
-		            <label color="red"  htmlFor="CellPhone">Cell Phone:         </label>
-		            <Field id="CellPhone" name="CellPhone" placeholder="Cell Phone" />
-		            <br></br>
-		            <label htmlFor="email">Email:                                                                         </label>
+		            <label color="red"  htmlFor="CellPhone">Cell Phone:    </label>
+		    <Field id="CellPhone" name="CellPhone" placeholder="Cell Phone" />
+		    <br></br>
+		            <label htmlFor="email">Email:  </label>
 		            <Field
 		              id="email"
 		              name="email"
