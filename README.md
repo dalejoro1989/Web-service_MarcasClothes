@@ -4,7 +4,6 @@
   <head>    
     <title>Web Services Marcas Onine Store</title>    
     <meta charset="UTF-8">
-    <meta name="title" content="Web Services Marcas Onine Store">
     <meta name="description" content="Descripción de la WEB">     
   </head>  
   <body>    
@@ -12,13 +11,14 @@
       <h1>Web Services Marcas Onine Store</h1>      
     </header>    
     <nav>
-      <a href="http://dominio.com/seccion2.html">IR SECCIÓN 2</a>
-      <a href="http://dominio.com/seccion2.html">IR SECCIÓN 3</a>
+      <a href="http://marcasonlinestore.hubspotpagebuilder.com/marcas-online">Landing Page</a>
+      <a href="https://docs.google.com/presentation/d/109pxfEmslvYeb0Hc5CZSuJtrI3XtchjwJwzqtv1-M04/edit#slide=id.ga71ca07049_2_16">Presentation Page</a>
+      <a href="https://wordpress.com/post/marcasmvponlinestore.wordpress.com/34">Blog Page</a>
     </nav>
     <section>      
       <article>
-        <h2>CONTENIDO PRINCIPAL</h2>
-        <p>Este es el contenido principal de mi web</p>
+        <h2>Project Name:</h2>
+        <p>Web Services Marcas Onine Store MVP</p>
         <div>
           <p>Aquí tenéis una imagen.</p>
           <img src="http://dominio.com/imagen.jpg" alt="paisaje">          
