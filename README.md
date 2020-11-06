@@ -1,8 +1,7 @@
 
 <!DOCTYPE html>
 <html lang="es">  
-  <head>    
-    <title>Web Services Marcas Onine Store</title>    
+  <head>     
     <meta charset="UTF-8">
     <meta name="description" content="Descripción de la WEB">     
   </head>  
@@ -12,7 +11,9 @@
     </header>    
     <nav>
       <a href="http://marcasonlinestore.hubspotpagebuilder.com/marcas-online">Landing Page</a>
+      <br>
       <a href="https://docs.google.com/presentation/d/109pxfEmslvYeb0Hc5CZSuJtrI3XtchjwJwzqtv1-M04/edit#slide=id.ga71ca07049_2_16">Presentation Page</a>
+      <br>
       <a href="https://wordpress.com/post/marcasmvponlinestore.wordpress.com/34">Blog Page</a>
     </nav>
     <section>      
