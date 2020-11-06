@@ -52,7 +52,6 @@ also allows us to retain them.</p>
         </div>
       </article>   
       <article>
-        <h2>Team Project</h2>
         <div>
           <p>
            <nav>
@@ -71,10 +70,27 @@ also allows us to retain them.</p>
     </nav>
           </p>    
         </div>
-      </article>        
+      </article>  
+      <article>
+        <div>
+          <p>
+           <nav>
+           <h2>INSTALATION</h2>
+           <P>To visit our page visite:</P>
+      <a href="http://marcasonlinestore.hubspotpagebuilder.com/marcas-online">Marcas Store</a>
+      <br>
+      <h2>Use</h2>
+           <P>Buy in the link clothes and Jelewery:</P>
+      <a href="http://marcasonlinestore.hubspotpagebuilder.com/marcas-online">Marcas Store</a>
+      <br>
+    </nav>
+          </p>    
+        </div>
+      </article>       
     </section>
     <h2>Advantage:</h2>
  <h2>Technical Information of the project:</h2>
+ <img src="C:\Users\diego\Desktop\repomarcas1\Web-service_MarcasClothes\assets">
   <div>
           <p></p>    
         </div>
