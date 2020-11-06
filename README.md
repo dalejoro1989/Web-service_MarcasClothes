@@ -90,7 +90,7 @@ also allows us to retain them.</p>
     </section>
     <h2>Advantage:</h2>
  <h2>Technical Information of the project:</h2>
- <img src="Desktop\repomarcas1\Web-service_MarcasClothes\assets">
+ <img src="repomarcas1\Web-service_MarcasClothes\assets">
   <div>
           <p></p>    
         </div>
