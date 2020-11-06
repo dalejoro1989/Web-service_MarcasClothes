@@ -21,8 +21,8 @@
         <h2>Project Name:</h2>
         <p>Web Services Marcas Onine Store MVP</p>
         <div>
-          <p>Aquí tenéis una imagen.</p>
-          <img src="http://dominio.com/imagen.jpg" alt="paisaje">          
+          <p>iMAGE OF MARCAS</p>
+          <img src="A SUS MARCAS LOGO - copia.png" alt="logo">          
         </div>
       </article>      
     </section>
