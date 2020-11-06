@@ -21,24 +21,18 @@
         <h2>Project Name:</h2>
         <p>Web Services Marcas Onine Store MVP</p>
         <div>
-          <p>iMAGE OF MARCAS</p>
-          <img src="A SUS MARCAS LOGO - copia.png" alt="logo">          
+          <p>Web Services online brand store Marcas to sell all kinds of products and accessories in addition to building customer loyalty CRM.</p>    
         </div>
       </article>      
     </section>
-    <aside>
-      <h3>Banner de publicidad</h3>
-      <a href="http://dominio-externo.com">
-        <img src="http://dominio.com/banner-publicidad.png" alt="banner de publicidad">
-      </a>
-      <h3>Testimonios</h3>
-      <p>Me gusta mucho esta página.</p>
-    </aside>
-    <footer>
-      <h4>Avisos legales</h4>
-      <a href="http://dominio.com/aviso-legal">Política de cookies</a>
+    <h2>Advantage:</h2>
+ <h2>Technical Information of the project:</h2>
+  <div>
+          <p>Web Services online brand store Marcas to sell all kinds of products and accessories in addition to building customer loyalty CRM.</p>    
+        </div>
+  <footer>
       <h4>Redes sociales</h4>
-      <a href="http://facebook.com/mi-pagina-de-facebook">Mi Facebook</a>
+      <a href="https://www.facebook.com/marcasdm">Mi Facebook</a>
     </footer>
   </body>  
 </html>
