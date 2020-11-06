@@ -7,7 +7,8 @@
   </head>  
   <body>    
     <header>
-      <h1>Web Services Marcas Onine Store</h1>      
+      <h1>Web Services Marcas Online Store</h1>     
+      <img src="assets\A SUS MARCAS LOGO - copia.png"> 
     </header>    
     <nav>
       <a href="http://marcasonlinestore.hubspotpagebuilder.com/marcas-online">Landing Page</a>
@@ -56,6 +57,9 @@ also allows us to retain them.</p>
           <p>
            <nav>
            <h2>Team Project</h2>
+           <br>
+
+ <img src="assets\presentation.png">
       <a href="https://www.linkedin.com/in/ricardo-barreto-r-1b06571a1/">LINKEDIN RICARDO BARRETO</a>
       <br>
         <a href="https://twitter.com/BartorodriguezR">TWITTER RICARDO BARRETO</a>
@@ -91,12 +95,21 @@ also allows us to retain them.</p>
     <h2>Advantage:</h2>
  <h2>Technical Information of the project:</h2>
  <img src="assets\A SUS MARCAS LOGO - copia.png">
+ <br>
+ <h2>Architecture:</h2>
+ <img src="assets\architecture.jpg">
+ <br>
+ <h2>DataBase:</h2>
+ <img src="assets\DATABASE.png">
+<br>
+ <h2>Tools Used:</h2>
+ <img src="assets\toolsused.png">
   <div>
           <p></p>    
         </div>
   <footer>
       <h4>Redes sociales</h4>
-      <a href="https://www.facebook.com/marcasdm">Mi Facebook</a>
+      <a href="https://www.facebook.com/marcasdm">Facebook Marcas</a>
     </footer>
   </body>  
 </html>
