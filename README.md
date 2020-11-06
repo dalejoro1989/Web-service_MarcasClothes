@@ -24,11 +24,59 @@
           <p>Web Services online brand store Marcas to sell all kinds of products and accessories in addition to building customer loyalty CRM.</p>    
         </div>
       </article>      
+       <article>
+        <h2>History</h2>
+        <p>History Web Services Marcas Onine Store MVP</p>
+        <div>
+          <p>*****Marcas is a clothing and
+accessories company that was born
+from the need to create income at
+a time of crisis, it took advantage
+of the fact that at the time of its
+creation network marketing was
+booming, this helped Brands to be a
+success and raise more than ten
+thousand followers on the page and
+what to achieve in its first year
+more than two thousand sales in its
+network clients. Brands in their
+growth found a flaw that made them
+lose some customers every month and
+that was that they could not have a
+database of their customers, losing
+them or not being able to retain
+them. So we take advantage of
+technology to create a web page that
+allows us to save databases and that
+also allows us to retain them.</p>    
+        </div>
+      </article>   
+      <article>
+        <h2>Team Project</h2>
+        <div>
+          <p>
+           <nav>
+           <h2>Team Project</h2>
+      <a href="https://www.linkedin.com/in/ricardo-barreto-r-1b06571a1/">LINKEDIN RICARDO BARRETO</a>
+      <br>
+        <a href="https://twitter.com/BartorodriguezR">TWITTER RICARDO BARRETO</a>
+      <br>
+        <a href="https://github.com/RicardoBarretoR">GITHUB RICARDO BARRETO</a>
+      <br>
+      <a href="https://www.linkedin.com/in/diego-alejandro-rojas-rivera-816543a2/">LINKEDIN DIEGO ROJAS</a>
+      <br>
+      <a href="https://twitter.com/dalejoro">TWITTER DIEGO ROJAS</a>
+      <br>
+      <a href="https://github.com/dalejoroc11">GITHUB DIEGO ROJAS</a>
+    </nav>
+          </p>    
+        </div>
+      </article>        
     </section>
     <h2>Advantage:</h2>
  <h2>Technical Information of the project:</h2>
   <div>
-          <p>Web Services online brand store Marcas to sell all kinds of products and accessories in addition to building customer loyalty CRM.</p>    
+          <p></p>    
         </div>
   <footer>
       <h4>Redes sociales</h4>
