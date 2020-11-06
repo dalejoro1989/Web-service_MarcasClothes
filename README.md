@@ -58,8 +58,8 @@ also allows us to retain them.</p>
            <nav>
            <h2>Team Project</h2>
            <br>
-
  <img src="assets\presentation.png">
+ <br>
       <a href="https://www.linkedin.com/in/ricardo-barreto-r-1b06571a1/">LINKEDIN RICARDO BARRETO</a>
       <br>
         <a href="https://twitter.com/BartorodriguezR">TWITTER RICARDO BARRETO</a>
